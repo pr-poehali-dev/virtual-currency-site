@@ -74,7 +74,7 @@ const Index = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <div className="w-10 h-10 rounded-full gradient-primary flex items-center justify-center">
+            <div className="w-10 h-10 gradient-primary flex items-center justify-center rounded-0">
               <Icon name="Coins" className="text-white" size={24} />
             </div>
             <span className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">Saya Coin,s </span>
