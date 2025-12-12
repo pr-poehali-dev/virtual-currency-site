@@ -77,9 +77,7 @@ const Index = () => {
             <div className="w-10 h-10 rounded-full gradient-primary flex items-center justify-center">
               <Icon name="Coins" className="text-white" size={24} />
             </div>
-            <span className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              CoinShop
-            </span>
+            <span className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">Saya Coin,s </span>
           </div>
 
           <div className="hidden md:flex items-center gap-6">
