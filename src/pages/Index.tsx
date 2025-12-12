@@ -43,7 +43,7 @@ const Index = () => {
     form.target = '_blank';
 
     const fields = {
-      receiver: '4100118866882452',
+      receiver: '4100118695716674',
       'quickpay-form': 'shop',
       targets: `Покупка ${pkg.name} - ${pkg.coins} монет`,
       'paymentType': 'SB',
