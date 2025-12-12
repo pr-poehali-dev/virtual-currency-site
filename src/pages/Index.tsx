@@ -350,10 +350,10 @@ const Index = () => {
 
         <div className="grid md:grid-cols-2 gap-8">
           {[
-            { icon: 'Mail', title: 'Email', value: 'support@coinshop.ru', link: 'mailto:support@coinshop.ru' },
-            { icon: 'MessageCircle', title: 'Telegram', value: '@coinshop_support', link: 'https://t.me/coinshop_support' },
-            { icon: 'Phone', title: 'Телефон', value: '+7 (800) 555-35-35', link: 'tel:+78005553535' },
-            { icon: 'Clock', title: 'Время работы', value: 'Круглосуточно 24/7', link: '#' },
+            { icon: 'Mail', title: 'Email', value: 'gogleplaydonat1@gmail.com', link: 'mailto:gogleplaydonat1@gmail.com' },
+            { icon: 'MessageCircle', title: 'Telegram', value: '@SayaGAMeOFFICIAL', link: 'https://t.me/SayaGAMeOFFICIAL' },
+            { icon: 'Phone', title: 'Телефон', value: '+7 [952] 455-60-37', link: 'tel:+79524556037' },
+            { icon: 'Clock', title: 'Время работы', value: 'Пн-Пт: 10:00 - 00:00', link: '#' },
           ].map((contact, idx) => (
             <Card 
               key={idx} 
